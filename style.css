@@ -224,6 +224,10 @@ body {
     font-size: 1.6rem;
   }
 
+   .stats p {
+   font-size: 0.9rem;
+   }
+   
   .stats {
     display: block;
     text-align: center;
