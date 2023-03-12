@@ -158,7 +158,7 @@ body {
 .desktop {
   width: 50%;
   float: right;
-  margin-left: 2rem;
+  margin-left: 4.5rem;
 }
 
 .text {
@@ -181,6 +181,7 @@ body {
 .text p {
   color: var(--slightlytransparentwhitestatheadings);
   font-family: "Inter", sans-serif;
+  font-size: 0.9rem;
   line-height: 1.5rem;
 }
 
